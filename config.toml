@@ -1,0 +1,43 @@
+BaseUrl= "http://example.com/"
+LanguageCode= "fr-FR"
+Title= "Elizabeth Robinette"
+paginate = 5
+DisqusShortname = "YOUR_SHORT_NAME_HERE"
+Copyright = "All rights reserved - 2015"
+canonifyurls = true
+
+[params]
+  description = "Youthful, Artistically Energized, Liberty-centered, Aspiring Activist"
+  cover = "images/blogpicture.jpeg"
+  author = "ElizabethRobinette"
+  authorlocation = "Oakdale, California, USA"
+  authorwebsite = ""
+  bio= "Youthful, Artistically Energized, Liberty-centered, Aspiring Activist"
+  logo = "images/erobinette.png"
+  googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = "http://feeds.feedburner.com/..."
+  githubName = "robinyetti"
+  instagramName = "izzyrobin24601"
+  # facebookName = ""
+  # linkedinName = "elizabeth-robinette"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+
+[[menu.main]]
+  name = "Who I Am"
+  weight = -120
+  identifier = "AboutMe"
+  url = "/tags/AboutMe"
+
+  [[menu.main]]
+  name = "Society Essays"
+  weight = -120
+  identifier = "SocietyEssays"
+  url = "/tags/SocietyEssays/"
+
+  [[menu.main]]
+  name = "Literary Essays"
+  weight = -120
+  identifier = "LiteraryEssays"
+  url = "/tags/LiteraryEssays/"
