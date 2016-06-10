@@ -30,14 +30,20 @@ canonifyurls = true
   identifier = "AboutMe"
   url = "/tags/AboutMe"
 
-  [[menu.main]]
+[[menu.main]]
   name = "Society Essays"
   weight = -120
   identifier = "SocietyEssays"
   url = "/tags/SocietyEssays/"
 
-  [[menu.main]]
+[[menu.main]]
   name = "Literary Essays"
   weight = -120
   identifier = "LiteraryEssays"
   url = "/tags/LiteraryEssays/"
+
+[[menu.main]]
+  name = "Creative Writing"
+  weight = -120
+  identifier = "CreativeWriting"
+  url = "/tags/CreativeWriting"
