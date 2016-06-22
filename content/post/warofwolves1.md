@@ -10,6 +10,8 @@ comments = false     # set false to hide Disqus comments
 share = true        # set false to share buttons
 menu = ""           # set "main" to add this content to the main menu
 +++
+This is a snippet of a Novel I had started. The story follows a young girl named Maebelle, who's apart of a whole story she doesn't even know yet. This is the story whereshe finds out.
+___________
 I woke with the sound of my dog's coo to the rising sun. I patted her happily on the head. Her tail brushed across the ground, lifting dust into the air, every speck dancing in a synchronized rhythm in the air.
 
 I swung my sore legs over to the side of my cot, my feet dangling inches from the ground. I laughed.

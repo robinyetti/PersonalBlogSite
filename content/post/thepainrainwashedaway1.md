@@ -10,7 +10,9 @@ comments = false     # set false to hide Disqus comments
 share = true        # set false to share buttons
 menu = ""           # set "main" to add this content to the main menu
 +++
+A snippet of another Novel I had started. The story follows a girl named Rayne, who suffers extreme Body Dismorphia, and Masochism.
 
+________
 **Prolouge**
 
 *Smack!*
